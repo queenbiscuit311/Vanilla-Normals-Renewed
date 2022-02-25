@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Ported to Bedrock by queenbiscuit311, original by Poudingue. Consider supporting them over at https://www.patreon.com/Poudingue! If you play on java, check out the original Java version over at https://github.com/Poudingue/Vanilla-Normals-Renewed. I ported this pack to bedrock because it's my favorite vanilla-pbr conversion pack by far.",
+        "name": "Vanilla Normals Renewed 1.0.7",
+        "uuid": "70c594bf-e849-406a-bd25-77ebe1d1a777",
+        "version": [1, 0, 7],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "53cbae27-8e9a-473e-a365-fc640bc9fced",
+            "version": [1, 0, 7]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]			
+}
