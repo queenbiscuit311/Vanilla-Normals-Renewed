@@ -9,4 +9,6 @@ All* textures, specular maps, and normal maps have been ported exactly, only cha
 
 This pack will not look the same as it does on java unfortunately. Bedrock handles normals and roughness values differently, and dare I say it, significantly worse than PTGI. It handles normals differently than any java shaders ever, really. You will notice a less pronounced normals effect on many blocks, like glass, and some blocks will not capture the essence of the materials (i have no idea how to word this) properly compared to PTGI. The specular effects are also not anywhere near as pronounced unless a block is reflecting a light source directly at the screen. There's nothing I can really do about it and it's not a dealbreaker but I thought it should be stated. That being said, the pack is still really, really good and the differences between java shaders and bedrock RTX don't change that.
 
+Thanks to bedrock RTX missing a ton of features it really should have like entity pbr and held item pbr, I cannot port any of those unfortunately. If they ever un-abandon bedrock RTX and add these features I will port those textures too.
+
 I will be keeping this pack up to date with Poudingue's repository whenever they change things.
