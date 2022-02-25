@@ -7,7 +7,7 @@ NOTES:
 
 All* textures, specular maps, and normal maps have been ported exactly, only changes being file structure and the conversion of the java specular maps to bedrock mer maps (which are basically just specular maps with an inverted smoothness channel and swapped color channels).
 
-*The only exception to this is the glass textures, i modified them to fit more with PTGI's way of rendering colored glass, which required changing the base stained galss textures. The specular and normal maps are unchanged.
+*The only exception to this is the glass textures, i modified them to fit more with PTGI's way of rendering colored glass, which required changing the base glass textures. The specular and normal maps are unchanged.
 
 This pack will not look the same as it does on java unfortunately. Bedrock handles normals and roughness values differently, and dare I say it, significantly worse than PTGI. It handles normals differently than any java shaders ever, really. You will notice a less pronounced normals effect on many blocks, like glass, and some blocks will not capture the essence of the materials (i have no idea how to word this) properly compared to PTGI. The specular effects are also not anywhere near as pronounced unless a block is reflecting a light source directly at the screen. There's nothing I can really do about it and it's not a dealbreaker but I thought it should be stated. That being said, the pack is still really, really good and the differences between java shaders and bedrock RTX don't change that.
 
