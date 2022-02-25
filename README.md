@@ -13,4 +13,6 @@ This pack will not look the same as it does on java unfortunately. Bedrock handl
 
 Thanks to bedrock RTX missing a ton of features it really should have like entity pbr and held item pbr, I cannot port any of those unfortunately. If they ever un-abandon bedrock RTX and add these features I will port those textures too.
 
+The official repository (as in the original one that this is a fork of) is missing a ton of normals and speculars cause the creators doing a "big clean" or something. I fished out the latest versions of those textures that got deleted out of Poudingue's commit history to use on my personal Vanilla Normals Renewed folder, meaning that this version is not missing those normals and speculars either as they got ported too since that's the folder I ran the conversion scripts on.
+
 I will be keeping this pack up to date with Poudingue's repository whenever they change things.
