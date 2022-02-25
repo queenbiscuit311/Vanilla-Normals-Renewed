@@ -1,5 +1,5 @@
 # Vanilla-Normals-Renewed
-This is a port of Vanilla Normals Renewed meant for Bedrock RTX. I absolutely love this pack on PTGI. It's my favorite vanilla conversion pack and the only resource pack I use. This took way more time than I was expecting so I wanted others to be able to benefit from my porting and enjoy this pack in bedrock too.
+This is a port of Vanilla Normals Renewed meant for Bedrock RTX. I absolutely love this pack on PTGI. It's my favorite vanilla conversion pack and the only resource pack I use. This took way more time than I was expecting so I wanted others to be able to benefit from my porting and enjoy this pack in bedrock too. If you like it, consider supporting the original creator over at https://www.patreon.com/Poudingue!
 
 NOTES:
 
