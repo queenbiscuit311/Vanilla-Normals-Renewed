@@ -1,6 +1,8 @@
 # Vanilla-Normals-Renewed
 This is a port of Vanilla Normals Renewed meant for Bedrock RTX. I absolutely love this pack on PTGI. It's my favorite vanilla conversion pack and the only resource pack I use. This took way more time than I was expecting so I wanted others to be able to benefit from my porting and enjoy this pack in bedrock too. If you like it, consider supporting the original creator over at https://www.patreon.com/Poudingue!
 
+Installation: Download an MCPACK from the releases section and install it that way or download the repository as a zip file and rename it to an mcpack file.
+
 NOTES:
 
 All* textures, specular maps, and normal maps have been ported exactly, only changes being file structure and the conversion of the java specular maps to bedrock mer maps (which are basically just specular maps with an inverted smoothness channel and swapped color channels).
