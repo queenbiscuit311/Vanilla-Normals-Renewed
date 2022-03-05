@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Add-On to Vanilla Normals Renewed 1.0.7. Makes emerald, lapis, and redstone blocks glow like they do in PTGI if you like that effect. Will not behave quite the same as on PTGI the emissiveness is not usually noticeable under direct daytime sunlight, while on Bedrock emmisive blocks tend to look bright regardless of the time of day. It looks close enough, however.",
+        "name": "PTGI Emerald Lapis Redstone",
+        "uuid": "fba6836c-4adc-4caf-8b86-7305bed0bad1",
+        "version": [1, 0, 7],
+        "min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "f8ae9fb4-996c-434e-88bf-f904f69250ea",
+            "version": [1, 0, 7]
+        }
+	],
+    "capabilities" : [
+	"raytraced"
+    ]			
+}
