@@ -1,4 +1,4 @@
-# Vanilla-Normals-Renewed
+# Vanilla-Normals-Renewed-Bedrock
 This is a port of Vanilla Normals Renewed meant for Bedrock RTX. I absolutely love this pack on PTGI. It's my favorite vanilla conversion pack and the only resource pack I use. This has taken wayyyyy more time than I was expecting (for some reason porting java packs is quite the project) so I wanted others to be able to benefit from my porting and enjoy this pack in bedrock too. If you like it, consider supporting the original creator over at https://www.patreon.com/Poudingue!
 
 Installation: Just download from the releases section or use the main respository to pack it yourself if you want. (Note: pack will only work on Windows 10/11 with an RTX card or RX 6000 card and over).
