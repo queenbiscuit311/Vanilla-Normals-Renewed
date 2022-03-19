@@ -4,14 +4,14 @@
         "description": "Add-On for Vanilla Normals Renewed 1.0.7. Makes the amethyst crystal bud things glow. Inspired by a similar add-on from Kelly's RTX.",
         "name": "High Emissiveness Amethyst Crystals",
         "uuid": "ced80cf8-fca3-4fcd-80f8-538da1ad0842",
-        "version": [4, 2, 0],
+        "version": [1, 0, 7],
         "min_engine_version": [1, 15, 0]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "77a22e31-bc81-4801-b634-a099990b0ddd",
-            "version": [4, 2, 0]
+            "version": [1, 0, 7]
         }
 	],
     "capabilities" : [
