@@ -5,7 +5,7 @@ Installation: Just download from the releases section or use the main respositor
 
 NOTES:
 
-Thanks to bedrock RTX missing a ton of features it really should have like entity pbr and held item pbr, I cannot port any of those unfortunately. If they ever un-abandon bedrock RTX and add these features I will port those textures too.
+Thanks to bedrock RTX missing a ton of features it really should have like entity pbr and held item pbr, I cannot port any of those textures unfortunately. If they ever un-abandon bedrock RTX and add these features I will port those textures too.
 
 All textures, specular maps, and normal maps have been ported exactly with some exceptions* where necessary, only real changes being file structure and the conversion of the java specular maps to bedrock mer maps (which are basically just specular maps with an inverted smoothness channel and swapped color channels).
 
