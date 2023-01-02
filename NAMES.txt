@@ -1,0 +1,7 @@
+BLOCK NAME DIFFERENCES FOR TEXTURE PACKS BEDROCK
+
+Java name on left Bedrock on right
+
+comparator = comparator_off
+
+repeater = repeater_off
