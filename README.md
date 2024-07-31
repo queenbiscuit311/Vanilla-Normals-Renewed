@@ -11,8 +11,8 @@ All textures, specular maps, and normal maps have been ported exactly with some 
 
 *The exceptions to this are as follows: 
 
-I modified the glass and ice textures to fit more with PTGI's way of rendering colored glass and ice, which required changing the base glass and ice textures to make them more transparent and the glass normal maps to make them more intense. I did this both because I like how PTGI handles glass and ice and you cant really see properly through the default glass and ice textures. It's not perfect since PTGI transparency just works fundamentally differently than Bedrock RTX it seems, but I think it looks pretty good. 
+I modified the glass and ice textures to fit more with PTGI's way of rendering colored glass and ice, which required changing the base glass and ice textures to make them more transparent and the glass normal maps to make them more intense, mimicking how the textures are rendered when using SEUS PTGI on Java. I did this both for aesthetics and functionality, since the way that bedrock handles glass makes it very difficult to see through either block with the default textures.
 
-For some reason dirt's specular map has a metalness value of 10 on all pixels even though it shouldnt and the dirt part of the grass side texture has a metalness value of 0, this created a very noticeable inconsistency between the reflectivity of the dirt and grass side textures. I don't think this was intentional and was kind of annoying so I gave them both the same values.
+Dirt's specular map has a metalness value of 10 on all pixels even though it shouldnt and the dirt part of the grass side texture has a metalness value of 0, this created a very noticeable inconsistency between the reflectivity of the dirt and grass side textures. I don't think this was intentional so I gave them both the same values.
 
 Lava had a maximum emissiveness value, which simply doesn't work well on bedrock. It's emissiveness has been lowered considerably.
